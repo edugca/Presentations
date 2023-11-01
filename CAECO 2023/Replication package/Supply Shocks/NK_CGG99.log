@@ -1,0 +1,24 @@
+Starting Dynare (version 5.3).
+Calling Dynare with arguments: none
+Starting preprocessing of the model file ...
+Substitution of endo leads >= 2: added 6 auxiliary variables and equations.
+Substitution of endo lags >= 2: added 11 auxiliary variables and equations.
+Found 24 equation(s).
+Evaluating expressions...done
+Computing static model derivatives (order 1).
+Computing dynamic model derivatives (order 2).
+Processing outputs ...
+done
+Preprocessing completed.
+
+
+STEADY-STATE RESULTS:
+
+x                 		 0
+i                 		 0
+pi                		 0
+interest          		 0
+inflation         		 0
+inflationq        		 0
+outputgap         		 0
+Total computing time : 0h00m00s
